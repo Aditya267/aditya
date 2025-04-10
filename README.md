@@ -1,8 +1,9 @@
-### Hi there 👋
-I'm a SMTS at VMWare by Broadcom!
-- 💻 10 years of expertise in **Java**, **Golang**, Spring, and **AWS**, specializing in crafting
-robust and scalable server-side solutions.
-- 🤟 Proven track record in optimizing system performance and delivering high-quality applications.
-- Collaborated closely with the DevOps team to streamline cloud infrastructure, optimize resource allocation, and implement automated scaling strategies. Successfully reduced infrastructure costs by **40%**, generating savings of **several million dollars** per month while maintaining system performance and scalability. Played a key role in identifying cost-saving opportunities and improving operational efficiency.
-- Re-architected and rewrote a complex rebate engine from Java to Golang, leading to a **90%** reduction in runtime, decreasing processing time from **8 hours to just 10 minutes**. Leveraged Golang’s concurrency and performance efficiency to streamline logic and optimize resource utilization, significantly improving system throughput and scalability. This transformation enabled faster business decisions and improved operational productivity.
+# Lead Developer at Arctic Wolf | ex-VMware 
 
+💻 **10 years of expertise** in Java, Golang, Spring, and AWS, with a strong focus on building secure, scalable, and high-performance server-side solutions.  
+🔐 Currently leading engineering efforts at **Arctic Wolf**, a pioneer in cybersecurity, driving innovations in threat detection, response systems, and cloud infrastructure resilience.
+
+🤟 Proven track record of optimizing system performance and delivering enterprise-grade applications.  
+At **VMware (now Broadcom)**, collaborated with the DevOps team to streamline cloud infrastructure, optimize resource allocation, and implement automated scaling strategies — cutting infrastructure costs by **40%**, saving **millions per month**, while maintaining peak system performance.
+
+🚀 Re-architected and rewrote a complex rebate engine from **Java to Golang**, reducing runtime by **90%** (from 8 hours to 10 minutes). Leveraged Golang’s concurrency model to improve throughput, enabling faster business decisions and boosting operational agility.
